@@ -1,5 +1,6 @@
 package assignment;
 import java.util.Scanner;
+//wap to take product info using scanner like productid,productname,productprize,quantity,category,brand and display
 public class productinformation
 	{
 	public  void pf() {
