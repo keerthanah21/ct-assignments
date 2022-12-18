@@ -1,6 +1,6 @@
 package assignment5;
 import java.util.Scanner;
-public class careertuner
+public class greatestnumber
 {
 	//take three numbers from the user and print the greatest number
 	public void greatestnum()
@@ -32,7 +32,7 @@ public class careertuner
 	
 	public static void main(String[] args) 
 	{
-	careertuner obj=new careertuner();
+	greatestnumber obj=new greatestnumber();
 	obj.greatestnum();
 	
 		
