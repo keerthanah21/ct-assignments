@@ -2,7 +2,7 @@ package assignment;
 
 import java.util.Scanner;
 
-public class assignment1 {
+public class positiveornegative {
 	//write a java program to get a number from the user and print whether its positive or negative
 	public  void posorneg()
 	{
@@ -26,7 +26,7 @@ public class assignment1 {
 
 	public static void main(String[] args)
 	{
-		assignment1 obj=new assignment1();
+		positiveornegative obj=new positiveornegative();
 		obj.posorneg();
 
 	}
