@@ -1,5 +1,6 @@
 package assignment;
 import java.util.Scanner;
+//wap to input 5 numbers from keyboard and find their sum and avg
 public class sumandavg {
 public static void main(String args[])
 {
